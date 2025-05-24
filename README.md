@@ -12,10 +12,10 @@ Welcome to the **Xunda Tech** GitHub organization! We are a Ugandan-based compan
 
 Each repository within the Xunda organization focuses on a specific aspect of our work:
 
-- 📘 [Documentation](https://github.com/techxunda/Documentation) – User manuals and guides for Xunda products.
-- 🛠️ [Firmware](https://github.com/techxunda/Firmware) – Firmware files and changelogs for Xunda machines.
-- 🎨 [Designs](https://github.com/techxunda/Designs) – 3D printable models (STL, STEP).
-- 🧑🏽‍🏫 [Tutorials](https://github.com/techxunda/Tutorials) – Educational materials and step-by-step guides.
+- 📘 [Documentation](https://github.com/Xunda3D/Documentation) – User manuals and guides for Xunda products.
+- 🛠️ [Firmware](https://github.com/Xunda3D/Firmware) – Firmware files and changelogs for Xunda machines.
+- 🎨 [Designs](https://github.com/Xunda3D/Designs) – 3D printable models (STL, STEP).
+- 🧑🏽‍🏫 [Tutorials](https://github.com/Xunda3D/Tutorials) – Educational materials and step-by-step guides.
 
 ---
 
